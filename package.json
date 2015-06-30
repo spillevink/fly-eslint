@@ -1,9 +1,9 @@
 {
   "name": "fly-eslint",
   "version": "0.0.1",
-  "description": "...",
+  "description": "Fly plugin for ESLint",
   "license": "MIT",
-  "repository": "https://github.com/flyjs/fly-eslint",
+  "repository": "https://github.com/bucaran/fly-eslint",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
